@@ -180,6 +180,13 @@ body {
 }
 .member.member-status.member-status-online:hover {
     background-color: rgba(0, 0, 0, 0.2) !important;
+} 
+.mention {
+    color: rgba(255, 0, 0, 1);
+    background: #f3f5fc;
+    font-weight: 600;
+    -webkit-transition: background-color .05s,color .05s;
+    transition: background-color .05s,color .05s;
 }
 .notice {
     background-color: #a1a1a1;
