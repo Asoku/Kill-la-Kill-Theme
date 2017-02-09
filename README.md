@@ -209,6 +209,10 @@ body {
 .chat>.title-wrap {
     box-shadow: none !important;
 }
+.chat .jump-to-present-bar button {
+    background: rgb(255, 0, 0);
+    color: #fff;
+}
 .title-wrap {
     box-shadow: none !important;
 }
